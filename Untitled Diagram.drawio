@@ -1,0 +1,177 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="F9cFGlfTYXl7nb8svg7-">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Corporate Office" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry width="2771" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Sales Department" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
+          <mxGeometry x="43" y="33" width="613" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Sales Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3">
+          <mxGeometry x="499" y="43" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Sales Manager" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3">
+          <mxGeometry x="328" y="43" width="121" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Sales Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3">
+          <mxGeometry x="33" y="127" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Sales Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3">
+          <mxGeometry x="180" y="127" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Sales Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3">
+          <mxGeometry x="340" y="127" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Sales Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3">
+          <mxGeometry x="499" y="127" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=-0.47;entryX=-0.44;entryY=-0.47;" edge="1" parent="3" source="5" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=-0.47;entryX=-0.44;entryY=-0.47;" edge="1" parent="3" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=-0.47;entryX=-0.45;entryY=-0.47;" edge="1" parent="3" source="7" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=-0.47;entryX=-0.44;entryY=-0.47;" edge="1" parent="3" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Marketing Department" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
+          <mxGeometry x="706" y="33" width="744" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Marketing Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="597" y="43" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Marketing Manager" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="393" y="43" width="154" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="Marketing Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="33" y="127" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Marketing Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="213" y="127" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Marketing Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="405" y="127" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="Marketing Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="14">
+          <mxGeometry x="597" y="127" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-3.59;exitY=-0.47;entryX=-5.43;entryY=-0.47;" edge="1" parent="14" source="16" target="15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-4.43;exitY=-0.47;entryX=-5.43;entryY=-0.47;" edge="1" parent="14" source="17" target="18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-4.43;exitY=-0.47;entryX=-5.43;entryY=-0.47;" edge="1" parent="14" source="18" target="19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-4.43;exitY=-0.47;entryX=-5.43;entryY=-0.47;" edge="1" parent="14" source="19" target="20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25" value="Finance Department" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
+          <mxGeometry x="1500" y="33" width="682" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Finance Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="25">
+          <mxGeometry x="550" y="43" width="115" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="Finance Manager" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="25">
+          <mxGeometry x="362" y="43" width="138" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Finance Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="25">
+          <mxGeometry x="33" y="127" width="115" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Finance Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="25">
+          <mxGeometry x="198" y="127" width="115" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="Finance Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="25">
+          <mxGeometry x="374" y="127" width="115" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="Finance Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="25">
+          <mxGeometry x="550" y="127" width="115" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-9.87;exitY=-0.47;entryX=-13.04;entryY=-0.47;" edge="1" parent="25" source="27" target="26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-12.05;exitY=-0.47;entryX=-13.05;entryY=-0.47;" edge="1" parent="25" source="28" target="29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-12.05;exitY=-0.47;entryX=-13.04;entryY=-0.47;" edge="1" parent="25" source="29" target="30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-12.05;exitY=-0.47;entryX=-13.04;entryY=-0.47;" edge="1" parent="25" source="30" target="31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" value="IT Department" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="2">
+          <mxGeometry x="2232" y="33" width="512" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="IT Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="36">
+          <mxGeometry x="423" y="43" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="IT Manager" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="36">
+          <mxGeometry x="277" y="43" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="IT Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="36">
+          <mxGeometry x="33" y="127" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="IT Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="36">
+          <mxGeometry x="155" y="127" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="IT Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="36">
+          <mxGeometry x="289" y="127" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="IT Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="36">
+          <mxGeometry x="423" y="127" width="72" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-22.25;exitY=-0.47;entryX=-31.01;entryY=-0.47;" edge="1" parent="36" source="38" target="37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-30;exitY=-0.47;entryX=-31;entryY=-0.47;" edge="1" parent="36" source="39" target="40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-30;exitY=-0.47;entryX=-31;entryY=-0.47;" edge="1" parent="36" source="40" target="41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-30;exitY=-0.47;entryX=-31.01;entryY=-0.47;" edge="1" parent="36" source="41" target="42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
